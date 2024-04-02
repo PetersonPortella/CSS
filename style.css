@@ -1,0 +1,26 @@
+.quad{
+   
+    width: 100%;
+    
+}
+
+ .menu{
+    text-align: right;
+ }
+
+ #capa{
+    padding: 30px;
+    text-align: center;
+    ;
+ }
+
+ .foto{
+    border: 5px solid;
+ }
+
+ body{
+    background: rgb(255, 123, 34);
+    margin: 100px;
+ }
+
+ 
